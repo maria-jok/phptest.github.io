@@ -10,3 +10,16 @@
   }
   
  ?>
+  
+   <script>
+  
+  function summaFunktio(a, b){
+    let c = a-b*b
+    console.log(c)
+  }
+
+  summaFunktio(1, 2)
+  </script>
+  
+  
+  
